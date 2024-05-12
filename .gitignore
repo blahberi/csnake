@@ -1,0 +1,28 @@
+# vscode specific
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+
+# Executables and other binaries
+*.o
+*.a
+*.so
+*.exe
+*.out
+*.dll
+*.dylib
+
+# Ignore the built application
+csnake
+
+# Other
+*.log
+*.swp
+*.bak
+*.tmp

@@ -1,0 +1,3 @@
+/home/eitanh/projects/csnake/cmake-build-debug/CMakeFiles/csnake.dir
+/home/eitanh/projects/csnake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eitanh/projects/csnake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
