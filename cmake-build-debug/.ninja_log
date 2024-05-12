@@ -1,7 +1,0 @@
-# ninja log v5
-0	12	1715456100694365064	build.ninja	94e8f9c30a2b59d1
-1	27	1715455446748009730	CMakeFiles/csnake.dir/src/snake.c.o	6827210f89099c68
-1	18	1715455446739009891	CMakeFiles/csnake.dir/src/main.c.o	860118a6e71e7f0d
-1	10	1715455446731010033	CMakeFiles/csnake.dir/src/board.c.o	3d8afe7dd28c3717
-27	41	1715455446761009498	csnake	72c84eb3f9261f4
-1	26	1715455446747009748	CMakeFiles/csnake.dir/src/memory_allocator/memory_allocator.c.o	a456dc220c58a94f
